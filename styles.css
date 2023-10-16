@@ -15,7 +15,15 @@ body {
 
 h1 {
     margin: 0 0 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #007BFF; /* Change the color to your preference */
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    /* Add more styles as needed */
 }
+
 
 input {
     width: 100%;
